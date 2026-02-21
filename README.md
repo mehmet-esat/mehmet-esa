@@ -1,55 +1,69 @@
-# 👋 Hi, I'm Esat!
+<br clear="both">
 
-### Web Developer | Python | JavaScript | HTML
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=Hey%20%F0%9F%91%8BWhat's%20Up?&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Be+your+own+hero;Passionate+about+coding!;Welcome+to+my+profile+👋)
+###
 
----
+<br clear="both">
 
-## 🚀 About Me
+<h1 align="center">I'm Esad</h1>
 
-- 💻 Currently working on web development projects
-- 📚 Learning Python, JavaScript, and HTML
-- 🎯 Goal: Getting better every single day
-- 🌱 Love exploring new technologies
-- 📍 Location: Turkey 🇹🇷
-- 📧 Contact: mehmetesat113@gmail.com
+###
 
----
+<h2 align="center">A passionate frontend developer from Turkey</h2>
 
-## 🛠️ Technologies I Use
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">I code with:</h2>
 
----
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+</div>
 
----
+###
 
-## 📫 Get In Touch
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetesat133@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmetesa)
+###
 
-📧 mehmetesat133@gmail.com
+<br clear="both">
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mehmet-esat&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-## 💭 My Philosophy
+###
 
-> "Code is not just a job, it's an art form."
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/pacman-contribution-graph.svg">
+</picture>
 
-> "Small steps every day are the beginning of great achievements."
+###
 
----
+<div align="center">
+  <img src="https://count.getloli.com/@:mehmet-esat?theme=gelbooru&padding=3&scale=5&align=top&pixelated=0&darkmode=auto"  />
+</div>
 
-![](https://komarev.com/ghpvc/?username=mehmetesa&color=blue&style=flat-square)
-
-### ⭐ Don't forget to star my projects if you like them!
-
-💙 Thanks for visiting my profile!
+###
