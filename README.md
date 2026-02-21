@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">A passionate frontend developer from Turkey</h1>
+<h1 align="center">A Frontend Developer from Turkey</h1>
 
 ###
 
@@ -27,12 +27,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="90" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="90" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="90" alt="react logo"  />
-  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
+  <img width="70" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="90" alt="tailwindcss logo"  />
 </div>
 
